@@ -1,0 +1,26 @@
+print function with ostream referece 
+attack method - passes an object
+damage - subtact hit points
+getters 
+other getters and setters
+
+20 sided die 
+attack bonus is added to roll 
+
+if sum is equal to or hiher than the other armor class then the attack hits
+
+if the attack hits roll a 10 sided to asses damage 
+
+int main{
+    prompt for char's 
+    call methods 
+    print 
+
+    prompt for 2nd char's 
+    call methods 
+    print
+
+    then loop to attack
+    prints attacks 
+}
+

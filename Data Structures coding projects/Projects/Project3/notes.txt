@@ -1,0 +1,27 @@
+Project 3 - 
+50 points 
+
+ADT - the operations 
+a sequence - works like an array list in java or vector 
+an array but it has some advantages 
+class sequence - holds ints
+
+sequence mySequence(size); 0-4 
+throws an exception if anything is outside 
+
+pushBack(value) adds value and grows array size 
+insert(postion, value) puts value in the postion and moves array accordingly 
+popBack() takes off the last element size--, error checking 
+erase(postions, how many) starts at the postion and removes how many items after, error checking
+
+Header file and starting file, need to implement all the methods
+
+
+Doubly linked list (EX: in class student single linked list)
+head pointer, 
+tail pointer
+next pointer
+previous pointer
+
+build it up a litte at a time, test often!!!
+Don't use test harness until the end, need own main to test stuff
