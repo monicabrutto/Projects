@@ -3,3 +3,5 @@
   * Creates a website using Apache and AWS virtual machine
   * Enable HTTPS and creates DNS records
   * Website HTML code was provided
+## Data.md
+ * Configures a RAID 5 on AWS virtual machine and Configres SAMBA on that RAID
