@@ -4,4 +4,4 @@
   * Enable HTTPS and creates DNS records
   * Website HTML code was provided
 ## Data.md
- * Configures a RAID 5 on AWS virtual machine and Configres SAMBA on that RAID
+ * Configures a RAID 5 on AWS virtual machine and Configures SAMBA on that RAID
